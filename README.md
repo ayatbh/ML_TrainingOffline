@@ -1,1 +1,1 @@
-# ML_TrainingOffline
+# FullyConnected_TrainingOffline
